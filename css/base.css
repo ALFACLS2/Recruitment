@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: -apple-system, sans-serif;
+}
+
+body {
+  background: #0d0d0d;
+}
+html, body {
+  height: 100%;
+  overflow-x: hidden;
+}
